@@ -8,6 +8,8 @@ To use the repo within your course you should fork it.
 
 The app is a node app with three pages.
 
+Change to test CI with Tech 254
+
 ### Homepage
 - `192.168.10.100:3000`
 ``localhost:3000``
